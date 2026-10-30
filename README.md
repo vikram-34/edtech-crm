@@ -191,7 +191,7 @@ Re-running `seed:admin` after changing `ADMIN_PASSWORD` resets that admin's pass
 
 These are demo-only credentials seeded by `npm run seed:admin`. They work on the live demo and locally if you use the same values in backend/.env.
 
-Live demo: <ADD DEPLOYED URL HERE>
+Live demo: https://edtech-crm-nu.vercel.app
 
 ---
 
