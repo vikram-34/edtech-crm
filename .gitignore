@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment files (real secrets) - the .env.example files ARE committed
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+
+# Logs & OS noise
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
